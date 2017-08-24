@@ -1,3 +1,7 @@
+'''
+Bayesian testing simulation from Thumbtack talk
+''''
+
 import math
 import time
 
